@@ -1,5 +1,5 @@
-#!/usr/bin/python
-# python program getting information from honeywell wifi thermostat
+#!/usr/bin/python3
+# python3 program getting information from honeywell wifi thermostat
 # thru honeywell api
 # not for Lyric or round types -> developer.honeywell.com
 # (c) 2017 by martin schlatter, schwetzingen, germany
